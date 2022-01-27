@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Liza
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning java
